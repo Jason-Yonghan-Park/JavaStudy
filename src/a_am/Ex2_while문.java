@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ex2_while문 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { // fdfdf
 		// 프로그램 시작
 		
 		// 키보드에서 찍는 수 만큼 옆으로 별이 찍히는 명령문을 작성
